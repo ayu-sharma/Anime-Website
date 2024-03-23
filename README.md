@@ -1,0 +1,1 @@
+I prepared this Anime website mainly for the Hackathon. 
